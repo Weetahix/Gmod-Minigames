@@ -5,6 +5,8 @@ I haven't seen many minigame gamemodes out there since Roleplay gamemodes have t
 
 To install, simply add to the correct folders on your server, sync up the FastDL and enjoy. Maps are required to play. Look for mg_ maps.
 
+If anything breaks on this repo, I will attempt to maintain it, but I will not provide support.
+
 ## Credits
 + [NaNpx](https://steamcommunity.com/sharedfiles/filedetails/?id=637780897 "Original gamemode creator").
 + [Artūras](https://steamcommunity.com/sharedfiles/filedetails?id=1471687594 "Edited the gamemode and added more features").
